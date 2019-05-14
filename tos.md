@@ -1,5 +1,5 @@
 # Terms of Service
-Effective date: Feb 4, 2019
+Effective date: May 14, 2019
 
 ## AGREEMENT TO TERMS
 These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and maikay.de ("Company", “we”, “us”, or “our”), concerning your access to and use of "I liiike" twitch extension as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the “Site” or "Service"). You agree that by accessing the extension, you have read, understood, and agree to be bound by all of these Terms of Use. IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF USE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SITE AND YOU MUST DISCONTINUE USE IMMEDIATELY.
