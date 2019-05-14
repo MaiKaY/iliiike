@@ -1,5 +1,5 @@
 # Privacy Policy
-Effective date: Feb 4, 2019
+Effective date: May 14, 2019
 
 maikay.de ("us", "we", or "our") operates the https://maikay.de website, Twitch Extensions on Twitch.tv created by MaiKaY (maikay.de) and other maikay.de applications (the "Service").
 
